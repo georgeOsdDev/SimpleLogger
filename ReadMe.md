@@ -16,7 +16,7 @@ app.coffee
 
 in your console
 
-	2012-05-03 13:51:46 [APP] [ INFO ] Hello, World!
+	2012-05-03 13:51:46 [SYS] [ INFO ] Hello, World!
 
 
 Log Level
